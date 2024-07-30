@@ -440,6 +440,18 @@
         <mxCell id="GvqYhBLNUC9iz9NB5fcP-173" value="Animated data loading across all figures" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-30" y="461" width="90" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="GvqYhBLNUC9iz9NB5fcP-179" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="GvqYhBLNUC9iz9NB5fcP-176" target="GvqYhBLNUC9iz9NB5fcP-85">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GvqYhBLNUC9iz9NB5fcP-176" value="Full graph interactivity to zoom, view specific points, etc" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-30" y="620" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GvqYhBLNUC9iz9NB5fcP-178" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="GvqYhBLNUC9iz9NB5fcP-177" target="GvqYhBLNUC9iz9NB5fcP-85">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GvqYhBLNUC9iz9NB5fcP-177" value="Key points and values annotated on graphs" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-30" y="535" width="90" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
