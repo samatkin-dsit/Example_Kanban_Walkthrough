@@ -1,9 +1,380 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36" version="24.7.6">
   <diagram name="Page-1" id="oqYdGcHT3AEx5KWIuhEE">
-    <mxGraphModel>
+    <mxGraphModel dx="1059" dy="635" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="GvqYhBLNUC9iz9NB5fcP-3" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="80" width="470" height="580" as="geometry" />
+        </mxCell>
+        <mxCell id="GvqYhBLNUC9iz9NB5fcP-4" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="80" width="130" height="580" as="geometry" />
+        </mxCell>
+        <mxCell id="GvqYhBLNUC9iz9NB5fcP-5" value="Delivery Unit LOGO" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="95" y="90" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GvqYhBLNUC9iz9NB5fcP-6" value="HOME" style="rounded=1;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="95" y="160" width="115" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GvqYhBLNUC9iz9NB5fcP-7" value="MISSION" style="rounded=1;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="95" y="200" width="115" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GvqYhBLNUC9iz9NB5fcP-8" value="MISSION" style="rounded=1;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="95" y="240" width="115" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GvqYhBLNUC9iz9NB5fcP-9" value="MISSION" style="rounded=1;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="95" y="280" width="115" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GvqYhBLNUC9iz9NB5fcP-42" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="220" y="110" width="153.88" height="132" as="geometry" />
+        </mxCell>
+        <mxCell id="GvqYhBLNUC9iz9NB5fcP-11" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="GvqYhBLNUC9iz9NB5fcP-42">
+          <mxGeometry x="20.5" y="12" width="133.38" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="GvqYhBLNUC9iz9NB5fcP-27" value="Metric Title" style="text;strokeColor=none;fillColor=none;html=1;fontSize=10;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="GvqYhBLNUC9iz9NB5fcP-42">
+          <mxGeometry width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="GvqYhBLNUC9iz9NB5fcP-30" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="GvqYhBLNUC9iz9NB5fcP-42">
+          <mxGeometry x="27.189999999999998" y="40" width="120" height="70" as="geometry" />
+        </mxCell>
+        <UserObject label="&lt;font style=&quot;font-size: 8px;&quot;&gt;Key Insights&lt;/font&gt;" placeholders="1" name="Variable" id="GvqYhBLNUC9iz9NB5fcP-31">
+          <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;" vertex="1" parent="GvqYhBLNUC9iz9NB5fcP-42">
+            <mxGeometry x="6" y="20" width="80" height="20" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="GvqYhBLNUC9iz9NB5fcP-33" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/core-ui-outlined/32/outlined_like-128.png" vertex="1" parent="GvqYhBLNUC9iz9NB5fcP-42">
+          <mxGeometry x="111.19" y="113" width="17" height="17" as="geometry" />
+        </mxCell>
+        <mxCell id="GvqYhBLNUC9iz9NB5fcP-34" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.concepts.clock;" vertex="1" parent="GvqYhBLNUC9iz9NB5fcP-42">
+          <mxGeometry x="93.19" y="115" width="15" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="GvqYhBLNUC9iz9NB5fcP-37" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/iconoir-vol-3/24/question-mark-circle-128.png" vertex="1" parent="GvqYhBLNUC9iz9NB5fcP-42">
+          <mxGeometry x="128.19" y="112" width="19" height="19" as="geometry" />
+        </mxCell>
+        <mxCell id="GvqYhBLNUC9iz9NB5fcP-26" value="Title" style="text;strokeColor=none;fillColor=none;html=1;fontSize=16;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="GvqYhBLNUC9iz9NB5fcP-42">
+          <mxGeometry x="-14" y="-20" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="GvqYhBLNUC9iz9NB5fcP-39" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/unicons-line-vol-2/24/chart-line-128.png" vertex="1" parent="1">
+          <mxGeometry x="275.19" y="153" width="64" height="64" as="geometry" />
+        </mxCell>
+        <mxCell id="GvqYhBLNUC9iz9NB5fcP-43" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="360" y="110" width="153.88" height="132" as="geometry" />
+        </mxCell>
+        <mxCell id="GvqYhBLNUC9iz9NB5fcP-44" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="GvqYhBLNUC9iz9NB5fcP-43">
+          <mxGeometry x="20.5" y="12" width="133.38" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="GvqYhBLNUC9iz9NB5fcP-45" value="Metric Title" style="text;strokeColor=none;fillColor=none;html=1;fontSize=10;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="GvqYhBLNUC9iz9NB5fcP-43">
+          <mxGeometry width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="GvqYhBLNUC9iz9NB5fcP-46" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="GvqYhBLNUC9iz9NB5fcP-43">
+          <mxGeometry x="27.189999999999998" y="40" width="120" height="70" as="geometry" />
+        </mxCell>
+        <UserObject label="&lt;font style=&quot;font-size: 8px;&quot;&gt;Key Insights&lt;/font&gt;" placeholders="1" name="Variable" id="GvqYhBLNUC9iz9NB5fcP-47">
+          <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;" vertex="1" parent="GvqYhBLNUC9iz9NB5fcP-43">
+            <mxGeometry x="6" y="20" width="80" height="20" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="GvqYhBLNUC9iz9NB5fcP-48" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/core-ui-outlined/32/outlined_like-128.png" vertex="1" parent="GvqYhBLNUC9iz9NB5fcP-43">
+          <mxGeometry x="111.19" y="113" width="17" height="17" as="geometry" />
+        </mxCell>
+        <mxCell id="GvqYhBLNUC9iz9NB5fcP-49" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.concepts.clock;" vertex="1" parent="GvqYhBLNUC9iz9NB5fcP-43">
+          <mxGeometry x="93.19" y="115" width="15" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="GvqYhBLNUC9iz9NB5fcP-50" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/iconoir-vol-3/24/question-mark-circle-128.png" vertex="1" parent="GvqYhBLNUC9iz9NB5fcP-43">
+          <mxGeometry x="128.19" y="112" width="19" height="19" as="geometry" />
+        </mxCell>
+        <mxCell id="GvqYhBLNUC9iz9NB5fcP-41" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/unicons-line-vol-2/24/chart-128.png" vertex="1" parent="GvqYhBLNUC9iz9NB5fcP-43">
+          <mxGeometry x="49.94" y="40" width="74.5" height="74.5" as="geometry" />
+        </mxCell>
+        <mxCell id="GvqYhBLNUC9iz9NB5fcP-51" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="500" y="110" width="153.88" height="168" as="geometry" />
+        </mxCell>
+        <mxCell id="GvqYhBLNUC9iz9NB5fcP-52" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="GvqYhBLNUC9iz9NB5fcP-51">
+          <mxGeometry x="20.5" y="12" width="133.38" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="GvqYhBLNUC9iz9NB5fcP-53" value="Metric Title" style="text;strokeColor=none;fillColor=none;html=1;fontSize=10;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="GvqYhBLNUC9iz9NB5fcP-51">
+          <mxGeometry width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="GvqYhBLNUC9iz9NB5fcP-54" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="GvqYhBLNUC9iz9NB5fcP-51">
+          <mxGeometry x="27.189999999999998" y="40" width="120" height="70" as="geometry" />
+        </mxCell>
+        <UserObject label="&lt;font style=&quot;font-size: 8px;&quot;&gt;Key Insights&lt;/font&gt;" placeholders="1" name="Variable" id="GvqYhBLNUC9iz9NB5fcP-55">
+          <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;" vertex="1" parent="GvqYhBLNUC9iz9NB5fcP-51">
+            <mxGeometry x="6" y="20" width="80" height="20" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="GvqYhBLNUC9iz9NB5fcP-56" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/core-ui-outlined/32/outlined_like-128.png" vertex="1" parent="GvqYhBLNUC9iz9NB5fcP-51">
+          <mxGeometry x="111.19" y="113" width="17" height="17" as="geometry" />
+        </mxCell>
+        <mxCell id="GvqYhBLNUC9iz9NB5fcP-57" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.concepts.clock;" vertex="1" parent="GvqYhBLNUC9iz9NB5fcP-51">
+          <mxGeometry x="93.19" y="115" width="15" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="GvqYhBLNUC9iz9NB5fcP-58" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/iconoir-vol-3/24/question-mark-circle-128.png" vertex="1" parent="GvqYhBLNUC9iz9NB5fcP-51">
+          <mxGeometry x="128.19" y="112" width="19" height="19" as="geometry" />
+        </mxCell>
+        <mxCell id="GvqYhBLNUC9iz9NB5fcP-40" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/unicons-line-vol-2/24/chart-growth-128.png" vertex="1" parent="GvqYhBLNUC9iz9NB5fcP-51">
+          <mxGeometry x="41.94" y="43" width="70" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="GvqYhBLNUC9iz9NB5fcP-59" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="220" y="260" width="153.88" height="132" as="geometry" />
+        </mxCell>
+        <mxCell id="GvqYhBLNUC9iz9NB5fcP-60" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="GvqYhBLNUC9iz9NB5fcP-59">
+          <mxGeometry x="20.5" y="12" width="133.38" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="GvqYhBLNUC9iz9NB5fcP-61" value="Metric Title" style="text;strokeColor=none;fillColor=none;html=1;fontSize=10;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="GvqYhBLNUC9iz9NB5fcP-59">
+          <mxGeometry width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="GvqYhBLNUC9iz9NB5fcP-62" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="GvqYhBLNUC9iz9NB5fcP-59">
+          <mxGeometry x="27.189999999999998" y="40" width="120" height="70" as="geometry" />
+        </mxCell>
+        <UserObject label="&lt;font style=&quot;font-size: 8px;&quot;&gt;Key Insights&lt;/font&gt;" placeholders="1" name="Variable" id="GvqYhBLNUC9iz9NB5fcP-63">
+          <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;" vertex="1" parent="GvqYhBLNUC9iz9NB5fcP-59">
+            <mxGeometry x="6" y="20" width="80" height="20" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="GvqYhBLNUC9iz9NB5fcP-64" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/core-ui-outlined/32/outlined_like-128.png" vertex="1" parent="GvqYhBLNUC9iz9NB5fcP-59">
+          <mxGeometry x="111.19" y="113" width="17" height="17" as="geometry" />
+        </mxCell>
+        <mxCell id="GvqYhBLNUC9iz9NB5fcP-65" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.concepts.clock;" vertex="1" parent="GvqYhBLNUC9iz9NB5fcP-59">
+          <mxGeometry x="93.19" y="115" width="15" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="GvqYhBLNUC9iz9NB5fcP-66" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/iconoir-vol-3/24/question-mark-circle-128.png" vertex="1" parent="GvqYhBLNUC9iz9NB5fcP-59">
+          <mxGeometry x="128.19" y="112" width="19" height="19" as="geometry" />
+        </mxCell>
+        <mxCell id="GvqYhBLNUC9iz9NB5fcP-67" value="Title" style="text;strokeColor=none;fillColor=none;html=1;fontSize=16;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="GvqYhBLNUC9iz9NB5fcP-59">
+          <mxGeometry x="-14" y="-20" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="GvqYhBLNUC9iz9NB5fcP-137" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/unicons-line-vol-2/24/chart-128.png" vertex="1" parent="GvqYhBLNUC9iz9NB5fcP-59">
+          <mxGeometry x="49.94" y="37.75" width="74.5" height="74.5" as="geometry" />
+        </mxCell>
+        <mxCell id="GvqYhBLNUC9iz9NB5fcP-68" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="360" y="260" width="153.88" height="132" as="geometry" />
+        </mxCell>
+        <mxCell id="GvqYhBLNUC9iz9NB5fcP-69" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="GvqYhBLNUC9iz9NB5fcP-68">
+          <mxGeometry x="20.5" y="12" width="133.38" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="GvqYhBLNUC9iz9NB5fcP-70" value="Metric Title" style="text;strokeColor=none;fillColor=none;html=1;fontSize=10;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="GvqYhBLNUC9iz9NB5fcP-68">
+          <mxGeometry width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="GvqYhBLNUC9iz9NB5fcP-71" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="GvqYhBLNUC9iz9NB5fcP-68">
+          <mxGeometry x="27.189999999999998" y="40" width="120" height="70" as="geometry" />
+        </mxCell>
+        <UserObject label="&lt;font style=&quot;font-size: 8px;&quot;&gt;Key Insights&lt;/font&gt;" placeholders="1" name="Variable" id="GvqYhBLNUC9iz9NB5fcP-72">
+          <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;" vertex="1" parent="GvqYhBLNUC9iz9NB5fcP-68">
+            <mxGeometry x="6" y="20" width="80" height="20" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="GvqYhBLNUC9iz9NB5fcP-73" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/core-ui-outlined/32/outlined_like-128.png" vertex="1" parent="GvqYhBLNUC9iz9NB5fcP-68">
+          <mxGeometry x="111.19" y="113" width="17" height="17" as="geometry" />
+        </mxCell>
+        <mxCell id="GvqYhBLNUC9iz9NB5fcP-74" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.concepts.clock;" vertex="1" parent="GvqYhBLNUC9iz9NB5fcP-68">
+          <mxGeometry x="93.19" y="115" width="15" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="GvqYhBLNUC9iz9NB5fcP-75" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/iconoir-vol-3/24/question-mark-circle-128.png" vertex="1" parent="GvqYhBLNUC9iz9NB5fcP-68">
+          <mxGeometry x="128.19" y="112" width="19" height="19" as="geometry" />
+        </mxCell>
+        <mxCell id="GvqYhBLNUC9iz9NB5fcP-149" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/unicons-line-vol-2/24/chart-growth-128.png" vertex="1" parent="GvqYhBLNUC9iz9NB5fcP-68">
+          <mxGeometry x="52.190000000000055" y="40" width="70" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="GvqYhBLNUC9iz9NB5fcP-76" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="500" y="260" width="153.88" height="132" as="geometry" />
+        </mxCell>
+        <mxCell id="GvqYhBLNUC9iz9NB5fcP-77" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="GvqYhBLNUC9iz9NB5fcP-76">
+          <mxGeometry x="20.5" y="12" width="133.38" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="GvqYhBLNUC9iz9NB5fcP-78" value="Metric Title" style="text;strokeColor=none;fillColor=none;html=1;fontSize=10;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="GvqYhBLNUC9iz9NB5fcP-76">
+          <mxGeometry width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="GvqYhBLNUC9iz9NB5fcP-79" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="GvqYhBLNUC9iz9NB5fcP-76">
+          <mxGeometry x="27.189999999999998" y="40" width="120" height="70" as="geometry" />
+        </mxCell>
+        <UserObject label="&lt;font style=&quot;font-size: 8px;&quot;&gt;Key Insights&lt;/font&gt;" placeholders="1" name="Variable" id="GvqYhBLNUC9iz9NB5fcP-80">
+          <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;" vertex="1" parent="GvqYhBLNUC9iz9NB5fcP-76">
+            <mxGeometry x="6" y="20" width="80" height="20" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="GvqYhBLNUC9iz9NB5fcP-81" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/core-ui-outlined/32/outlined_like-128.png" vertex="1" parent="GvqYhBLNUC9iz9NB5fcP-76">
+          <mxGeometry x="111.19" y="113" width="17" height="17" as="geometry" />
+        </mxCell>
+        <mxCell id="GvqYhBLNUC9iz9NB5fcP-82" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.concepts.clock;" vertex="1" parent="GvqYhBLNUC9iz9NB5fcP-76">
+          <mxGeometry x="93.19" y="115" width="15" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="GvqYhBLNUC9iz9NB5fcP-83" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/iconoir-vol-3/24/question-mark-circle-128.png" vertex="1" parent="GvqYhBLNUC9iz9NB5fcP-76">
+          <mxGeometry x="128.19" y="112" width="19" height="19" as="geometry" />
+        </mxCell>
+        <mxCell id="GvqYhBLNUC9iz9NB5fcP-150" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/unicons-line-vol-2/24/chart-line-128.png" vertex="1" parent="GvqYhBLNUC9iz9NB5fcP-76">
+          <mxGeometry x="47.190000000000055" y="43" width="64" height="64" as="geometry" />
+        </mxCell>
+        <mxCell id="GvqYhBLNUC9iz9NB5fcP-84" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="219" y="404" width="153.88" height="166" as="geometry" />
+        </mxCell>
+        <mxCell id="GvqYhBLNUC9iz9NB5fcP-85" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="GvqYhBLNUC9iz9NB5fcP-84">
+          <mxGeometry x="20.5" y="12" width="133.38" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="GvqYhBLNUC9iz9NB5fcP-86" value="Metric Title" style="text;strokeColor=none;fillColor=none;html=1;fontSize=10;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="GvqYhBLNUC9iz9NB5fcP-84">
+          <mxGeometry width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="GvqYhBLNUC9iz9NB5fcP-87" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="GvqYhBLNUC9iz9NB5fcP-84">
+          <mxGeometry x="27.189999999999998" y="40" width="120" height="70" as="geometry" />
+        </mxCell>
+        <UserObject label="&lt;font style=&quot;font-size: 8px;&quot;&gt;Key Insights&lt;/font&gt;" placeholders="1" name="Variable" id="GvqYhBLNUC9iz9NB5fcP-88">
+          <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;" vertex="1" parent="GvqYhBLNUC9iz9NB5fcP-84">
+            <mxGeometry x="6" y="20" width="80" height="20" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="GvqYhBLNUC9iz9NB5fcP-89" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/core-ui-outlined/32/outlined_like-128.png" vertex="1" parent="GvqYhBLNUC9iz9NB5fcP-84">
+          <mxGeometry x="111.19" y="113" width="17" height="17" as="geometry" />
+        </mxCell>
+        <mxCell id="GvqYhBLNUC9iz9NB5fcP-90" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.concepts.clock;" vertex="1" parent="GvqYhBLNUC9iz9NB5fcP-84">
+          <mxGeometry x="93.19" y="115" width="15" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="GvqYhBLNUC9iz9NB5fcP-91" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/iconoir-vol-3/24/question-mark-circle-128.png" vertex="1" parent="GvqYhBLNUC9iz9NB5fcP-84">
+          <mxGeometry x="128.19" y="112" width="19" height="19" as="geometry" />
+        </mxCell>
+        <mxCell id="GvqYhBLNUC9iz9NB5fcP-92" value="Title" style="text;strokeColor=none;fillColor=none;html=1;fontSize=16;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="GvqYhBLNUC9iz9NB5fcP-84">
+          <mxGeometry x="-14" y="-20" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="GvqYhBLNUC9iz9NB5fcP-118" value="Key Contacts" style="text;strokeColor=none;fillColor=none;html=1;fontSize=16;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="GvqYhBLNUC9iz9NB5fcP-84">
+          <mxGeometry x="20.5" y="126" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="GvqYhBLNUC9iz9NB5fcP-148" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/unicons-line-vol-2/24/chart-growth-128.png" vertex="1" parent="GvqYhBLNUC9iz9NB5fcP-84">
+          <mxGeometry x="52.190000000000055" y="43" width="70" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="GvqYhBLNUC9iz9NB5fcP-93" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="359" y="404" width="153.88" height="132" as="geometry" />
+        </mxCell>
+        <mxCell id="GvqYhBLNUC9iz9NB5fcP-94" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="GvqYhBLNUC9iz9NB5fcP-93">
+          <mxGeometry x="20.5" y="12" width="133.38" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="GvqYhBLNUC9iz9NB5fcP-95" value="Metric Title" style="text;strokeColor=none;fillColor=none;html=1;fontSize=10;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="GvqYhBLNUC9iz9NB5fcP-93">
+          <mxGeometry width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="GvqYhBLNUC9iz9NB5fcP-96" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="GvqYhBLNUC9iz9NB5fcP-93">
+          <mxGeometry x="27.189999999999998" y="40" width="120" height="70" as="geometry" />
+        </mxCell>
+        <UserObject label="&lt;font style=&quot;font-size: 8px;&quot;&gt;Key Insights&lt;/font&gt;" placeholders="1" name="Variable" id="GvqYhBLNUC9iz9NB5fcP-97">
+          <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;" vertex="1" parent="GvqYhBLNUC9iz9NB5fcP-93">
+            <mxGeometry x="6" y="20" width="80" height="20" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="GvqYhBLNUC9iz9NB5fcP-98" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/core-ui-outlined/32/outlined_like-128.png" vertex="1" parent="GvqYhBLNUC9iz9NB5fcP-93">
+          <mxGeometry x="111.19" y="113" width="17" height="17" as="geometry" />
+        </mxCell>
+        <mxCell id="GvqYhBLNUC9iz9NB5fcP-99" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.concepts.clock;" vertex="1" parent="GvqYhBLNUC9iz9NB5fcP-93">
+          <mxGeometry x="93.19" y="115" width="15" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="GvqYhBLNUC9iz9NB5fcP-100" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/iconoir-vol-3/24/question-mark-circle-128.png" vertex="1" parent="GvqYhBLNUC9iz9NB5fcP-93">
+          <mxGeometry x="128.19" y="112" width="19" height="19" as="geometry" />
+        </mxCell>
+        <mxCell id="GvqYhBLNUC9iz9NB5fcP-151" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/unicons-line-vol-2/24/chart-line-128.png" vertex="1" parent="GvqYhBLNUC9iz9NB5fcP-93">
+          <mxGeometry x="47.19" y="46" width="64" height="64" as="geometry" />
+        </mxCell>
+        <mxCell id="GvqYhBLNUC9iz9NB5fcP-101" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="499" y="404" width="153.88" height="132" as="geometry" />
+        </mxCell>
+        <mxCell id="GvqYhBLNUC9iz9NB5fcP-102" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="GvqYhBLNUC9iz9NB5fcP-101">
+          <mxGeometry x="20.5" y="12" width="133.38" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="GvqYhBLNUC9iz9NB5fcP-103" value="Metric Title" style="text;strokeColor=none;fillColor=none;html=1;fontSize=10;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="GvqYhBLNUC9iz9NB5fcP-101">
+          <mxGeometry width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="GvqYhBLNUC9iz9NB5fcP-104" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="GvqYhBLNUC9iz9NB5fcP-101">
+          <mxGeometry x="27.189999999999998" y="40" width="120" height="70" as="geometry" />
+        </mxCell>
+        <UserObject label="&lt;font style=&quot;font-size: 8px;&quot;&gt;Key Insights&lt;/font&gt;" placeholders="1" name="Variable" id="GvqYhBLNUC9iz9NB5fcP-105">
+          <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;" vertex="1" parent="GvqYhBLNUC9iz9NB5fcP-101">
+            <mxGeometry x="6" y="20" width="80" height="20" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="GvqYhBLNUC9iz9NB5fcP-106" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/core-ui-outlined/32/outlined_like-128.png" vertex="1" parent="GvqYhBLNUC9iz9NB5fcP-101">
+          <mxGeometry x="111.19" y="113" width="17" height="17" as="geometry" />
+        </mxCell>
+        <mxCell id="GvqYhBLNUC9iz9NB5fcP-107" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.concepts.clock;" vertex="1" parent="GvqYhBLNUC9iz9NB5fcP-101">
+          <mxGeometry x="93.19" y="115" width="15" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="GvqYhBLNUC9iz9NB5fcP-108" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/iconoir-vol-3/24/question-mark-circle-128.png" vertex="1" parent="GvqYhBLNUC9iz9NB5fcP-101">
+          <mxGeometry x="128.19" y="112" width="19" height="19" as="geometry" />
+        </mxCell>
+        <mxCell id="GvqYhBLNUC9iz9NB5fcP-138" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/unicons-line-vol-2/24/chart-128.png" vertex="1" parent="GvqYhBLNUC9iz9NB5fcP-101">
+          <mxGeometry x="49.940000000000055" y="40.5" width="74.5" height="74.5" as="geometry" />
+        </mxCell>
+        <mxCell id="GvqYhBLNUC9iz9NB5fcP-111" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="234.88" y="560" width="265.12" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="GvqYhBLNUC9iz9NB5fcP-114" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.containers.userMale;strokeColor=#666666;strokeColor2=#008cff;" vertex="1" parent="1">
+          <mxGeometry x="253.88" y="565" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="GvqYhBLNUC9iz9NB5fcP-115" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.containers.userFemale;strokeColor=#666666;strokeColor2=#008cff;" vertex="1" parent="1">
+          <mxGeometry x="313.88" y="565" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="GvqYhBLNUC9iz9NB5fcP-116" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.containers.userMale;strokeColor=#666666;strokeColor2=#008cff;" vertex="1" parent="1">
+          <mxGeometry x="372.82" y="565" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="GvqYhBLNUC9iz9NB5fcP-117" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.containers.userFemale;strokeColor=#666666;strokeColor2=#008cff;" vertex="1" parent="1">
+          <mxGeometry x="432.82" y="565" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="GvqYhBLNUC9iz9NB5fcP-119" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Name&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
+          <mxGeometry x="219" y="600" width="100" height="40" as="geometry" />
+        </mxCell>
+        <UserObject label="Email&lt;div style=&quot;font-size: 8px;&quot;&gt;&lt;br style=&quot;font-size: 8px;&quot;&gt;&lt;/div&gt;" placeholders="1" name="Variable" id="GvqYhBLNUC9iz9NB5fcP-122">
+          <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;fontSize=8;" vertex="1" parent="1">
+            <mxGeometry x="229" y="630" width="80" height="20" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="GvqYhBLNUC9iz9NB5fcP-124" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Name&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
+          <mxGeometry x="280" y="600" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="GvqYhBLNUC9iz9NB5fcP-125" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Name&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
+          <mxGeometry x="336.94" y="600" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="GvqYhBLNUC9iz9NB5fcP-126" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Name&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
+          <mxGeometry x="397" y="599" width="100" height="40" as="geometry" />
+        </mxCell>
+        <UserObject label="Email&lt;div style=&quot;font-size: 8px;&quot;&gt;&lt;br style=&quot;font-size: 8px;&quot;&gt;&lt;/div&gt;" placeholders="1" name="Variable" id="GvqYhBLNUC9iz9NB5fcP-127">
+          <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;fontSize=8;" vertex="1" parent="1">
+            <mxGeometry x="290" y="630" width="80" height="20" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Email&lt;div style=&quot;font-size: 8px;&quot;&gt;&lt;br style=&quot;font-size: 8px;&quot;&gt;&lt;/div&gt;" placeholders="1" name="Variable" id="GvqYhBLNUC9iz9NB5fcP-128">
+          <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;fontSize=8;" vertex="1" parent="1">
+            <mxGeometry x="346.94" y="630" width="80" height="20" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Email&lt;div style=&quot;font-size: 8px;&quot;&gt;&lt;br style=&quot;font-size: 8px;&quot;&gt;&lt;/div&gt;" placeholders="1" name="Variable" id="GvqYhBLNUC9iz9NB5fcP-129">
+          <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;fontSize=8;" vertex="1" parent="1">
+            <mxGeometry x="407" y="630" width="80" height="20" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="GvqYhBLNUC9iz9NB5fcP-130" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="40" width="600" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="GvqYhBLNUC9iz9NB5fcP-131" value="MISSION" style="rounded=1;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="95" y="320" width="115" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GvqYhBLNUC9iz9NB5fcP-132" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.home;" vertex="1" parent="1">
+          <mxGeometry x="100" y="163" width="24" height="25.5" as="geometry" />
+        </mxCell>
+        <mxCell id="GvqYhBLNUC9iz9NB5fcP-133" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.add;" vertex="1" parent="1">
+          <mxGeometry x="100.5" y="205.5" width="19" height="19" as="geometry" />
+        </mxCell>
+        <mxCell id="GvqYhBLNUC9iz9NB5fcP-134" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.add;" vertex="1" parent="1">
+          <mxGeometry x="100.5" y="245" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="GvqYhBLNUC9iz9NB5fcP-135" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.add;" vertex="1" parent="1">
+          <mxGeometry x="100" y="285" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="GvqYhBLNUC9iz9NB5fcP-136" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.add;" vertex="1" parent="1">
+          <mxGeometry x="100.5" y="325" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="GvqYhBLNUC9iz9NB5fcP-152" value="SEARCH BAR" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="40" width="210" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="GvqYhBLNUC9iz9NB5fcP-153" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.looking_glass;" vertex="1" parent="1">
+          <mxGeometry x="250" y="45" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GvqYhBLNUC9iz9NB5fcP-154" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.concepts.settings_office_365;" vertex="1" parent="1">
+          <mxGeometry x="649" y="42" width="38" height="38" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
